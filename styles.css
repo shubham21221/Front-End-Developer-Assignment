@@ -10,10 +10,9 @@ html,body { height: 100%; font-family: 'Montserrat', system-ui, -apple-system, '
 .header-inner { display:flex; align-items:center; padding:18px 0; position:relative; }
 
 /* Main nav styling */
-/* Main nav styling */
 .main-nav {
     display: flex;
-    gap: 14px;             
+    gap: 34px;             
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;       
@@ -146,4 +145,5 @@ body.nav-open .menu-btn {
   color: black;
 }
 .card-btn img { width: 28px; }
+
 
